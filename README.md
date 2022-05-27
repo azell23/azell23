@@ -7,8 +7,8 @@
 <div align="center">
 
 
-[![Azell23's github stats](https://github-readme-stats.vercel.app/api?username=azell23-tamboli&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/azell23/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azell23-tamboli&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/azell23/github-readme-stats)
+[![azell23's github stats](https://github-readme-stats.vercel.app/api?username=azell23&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/azell23/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azell23&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/azell23/github-readme-stats)
 
 </div>
 
@@ -23,6 +23,6 @@ I am a Informatic Enginnering undergrad from Tegal, Indonesia. Currently I am st
 
 ### 👀 visitor count
 
-<img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg" alt="Hello world" />
+<img src="https://profile-counter.glitch.me/azell23/count.svg" alt="Hello world" />
 
 <hr />
