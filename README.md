@@ -13,7 +13,7 @@
 </div>
 
 
-I am a Informatic Enginnering undergrad from Tegal, Indonesia. Currently I am studying in PHB. I am very passionate about __UI UX Design__ and __Android Development__
+I am a Informatic Enginnering graduate from Tegal, Indonesia. Currently I am studying in PHB. I am very passionate about __UI UX Design__ and __Android Development__
 
 ## 🔗 Connect with me on :
 
